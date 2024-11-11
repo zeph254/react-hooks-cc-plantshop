@@ -1,12 +1,6 @@
 {
   "plants": [
     {
-      "id": 1,
-      "name": "Aloe",
-      "image": "./images/aloe.jpg",
-      "price": 15.99
-    },
-    {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
@@ -41,6 +35,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "hhdhdh",
+      "image": "./images/zz-plant.jpg",
+      "price": 1,
+      "id": 11
+    },
+    {
+      "name": "name",
+      "image": "./images/zz-plant.jpg",
+      "price": 5,
+      "id": 12
     }
   ]
 }

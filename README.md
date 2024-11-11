@@ -148,3 +148,15 @@ Example Response:
 ```json
 {}
 ```
+#### bugs
+
+1.the delete button works but the plant is still visible on page.
+only when you refresh the page then does it show that it is deleted
+
+
+2. One add a plant but it is only visible when you refresh the page.
+
+
+
+ ### live link
+ https://subtle-bombolone-49266a.netlify.app/
