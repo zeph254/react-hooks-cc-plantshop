@@ -37,16 +37,16 @@
       "price": 55
     },
     {
-      "name": "hhdhdh",
-      "image": "./images/zz-plant.jpg",
-      "price": 1,
-      "id": 11
-    },
-    {
       "name": "name",
       "image": "./images/zz-plant.jpg",
       "price": 5,
       "id": 12
+    },
+    {
+      "name": "child ",
+      "image": "./images/zz-plant.jpg",
+      "price": 13,
+      "id": 13
     }
   ]
 }

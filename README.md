@@ -159,4 +159,4 @@ only when you refresh the page then does it show that it is deleted
 
 
  ### live link
- https://subtle-bombolone-49266a.netlify.app/
+https://harmonious-melomakarona-f1de3d.netlify.app/
