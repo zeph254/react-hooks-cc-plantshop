@@ -9,7 +9,7 @@ export default function Delete({plant}){
 
     
     function handleDelete(){
-      fetch (`http://localhost:6001/plants/${plant.id}`,{
+      fetch (`https://react-hooks-cc-plantshop-r4mp.onrender.com/${plant.id}`,{
           method:"DELETE",
       });}
     return (

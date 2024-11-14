@@ -14,7 +14,7 @@ const handleSearch=(z)=>{
 
 const plantFilter=plants.filter((plant)=>plant.name.toLowerCase().includes(searchTerm.toLowerCase()))
 useEffect(()=>{
-  fetch('https://localhost:6001/plants')
+  fetch('https://react-hooks-cc-plantshop-r4mp.onrender.com/plants')
   .then((response) => response.json())
   .then((data) => setPlants(data))
 },[])
